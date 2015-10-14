@@ -1,2 +1,2 @@
 # DigitalPersonaDelphi
-DigitalPersona Delphi example
+Exemplo Delphi de um aplicativo que integra com leitor biométrico Digital Persona

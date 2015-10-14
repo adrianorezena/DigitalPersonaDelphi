@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2015/08/01 16:39:31.005,=D:\Meus Documentos\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2015/08/01 16:40:08.347,D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\DPFPDelphi.dfm=D:\Meus Documentos\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2015/08/01 16:40:08.347,D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\DPFPDelphi.pas=D:\Meus Documentos\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2015/08/01 16:40:31.939,D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\uPrincipal.dfm=D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\DPFPDelphi.dfm</Transaction>
+    <Transaction>2015/08/01 16:40:31.939,D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\uPrincipal.pas=D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\DPFPDelphi.pas</Transaction>
+    <Transaction>2015/08/01 16:40:39.887,D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\DPFPDelphi.dproj=D:\Meus Documentos\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2015/08/01 16:44:14.038,=D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\Unit1.pas</Transaction>
+    <Transaction>2015/08/01 16:44:23.341,D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\DPFPGlobal.pas=D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\Unit1.pas</Transaction>
+    <Transaction>2015/08/01 16:45:52.562,=D:\Desenvolvimento\Biometria\DelphiCOMSample\DPFPDelphi\uCapturar.pas</Transaction>
+  </Transactions>
+</BorlandProject>
